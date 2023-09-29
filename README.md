@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benedictowusu
 - 👀 I’m interested in software development 
-- 🌱 I’m a c++ developer
+- 🌱 I’m a software engineer
 - 💞️ I’m looking to collaborate on building projects together
 - 📫 How to reach me beneyjoy@gmail.com 
 
