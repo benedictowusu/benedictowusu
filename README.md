@@ -1,5 +1,3 @@
-Sure, here's a sample GitHub bio for someone fitting that description:
-
 👋 Hey there! I'm Benedict Owusu, a passionate software engineer specializing in backend development and honing my skills at ALX, the Software Engineering Academy.
 
 🚀 About Me:
